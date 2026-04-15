@@ -12,6 +12,7 @@ public class Clientes {
    String nombre;
    String apellido;
    String direccion;
+   double sueldo;
    
    public void Cliente(){
    this.id=0;
